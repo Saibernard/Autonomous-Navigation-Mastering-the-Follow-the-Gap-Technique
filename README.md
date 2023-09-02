@@ -28,7 +28,9 @@ The car's autonomous navigation was validated across two distinct maps:
 
 - **Extra Test Maps:** Two additional maps, namely `levine_blocked.png` (a simpler, empty terrain) and `levine_obs.png` (a challenging terrain with intricate obstacles), were employed to rigorously evaluate the implemented algorithm.
 
-  
+### Gap follow in simulation:
+ 
+ https://youtu.be/wIkvEwAcDU8
 
 ## Documentation
 
