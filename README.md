@@ -1,0 +1,2 @@
+# Autonomous-Navigation-Mastering-the-Follow-the-Gap-Technique
+This repository delves into the world of autonomous driving, spotlighting the "Follow the Gap" method. By leveraging LiDAR technology, it introduces a reactive obstacle avoidance algorithm. Starting with preprocessing laser scans to dynamically determining optimal driving paths, experience how a car smartly navigates simulated terrains.
