@@ -32,6 +32,10 @@ The car's autonomous navigation was validated across two distinct maps:
  
  https://youtu.be/wIkvEwAcDU8
 
+### Gap follow algorithm with car overcoming obstacles in simulation:
+
+ https://youtu.be/xYAHQdddTKo
+
 ## Documentation
 
 To ensure comprehensive documentation and showcase the car's obstacle avoidance capabilities in action, screen casts were created, capturing the car's navigation across both test maps.
