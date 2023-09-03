@@ -36,6 +36,10 @@ The car's autonomous navigation was validated across two distinct maps:
 
  https://youtu.be/xYAHQdddTKo
 
+ ### Gap follow implenetation in actual f1tenth car:
+ 
+ https://youtu.be/bYpef-Hq3GA
+
 ## Documentation
 
 To ensure comprehensive documentation and showcase the car's obstacle avoidance capabilities in action, screen casts were created, capturing the car's navigation across both test maps.
