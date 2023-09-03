@@ -28,6 +28,12 @@ The car's autonomous navigation was validated across two distinct maps:
 
 - **Extra Test Maps:** Two additional maps, namely `levine_blocked.png` (a simpler, empty terrain) and `levine_obs.png` (a challenging terrain with intricate obstacles), were employed to rigorously evaluate the implemented algorithm.
 
+![image](https://github.com/Saibernard/Autonomous-Navigation-Mastering-the-Follow-the-Gap-Technique/assets/112599512/e2bd5499-b01a-4390-b0c5-f5eb0e942d47)
+
+
+![image](https://github.com/Saibernard/Autonomous-Navigation-Mastering-the-Follow-the-Gap-Technique/assets/112599512/43a31596-920f-4afe-a374-5b84364252ff)
+
+
 ### Gap follow in simulation:
  
  https://youtu.be/wIkvEwAcDU8
